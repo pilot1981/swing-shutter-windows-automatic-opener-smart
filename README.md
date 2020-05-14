@@ -20,9 +20,12 @@ REQUIREMENTS:
 - protection IP44
 
 OPTIONAL:
+- close sensor
+- open sensor
 - solar panels +  battery
 - wall button
-- control suing Alexa, Google Home
+- control using Alexa, Google Home
+- detection obstacle, wind, ice (suing PM, contact, motion detection, ...)
 
 
 BOM:
