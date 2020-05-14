@@ -4,6 +4,7 @@ This repository contain all you need to create from scratch a swing dual externa
 This project would help everyone to create itself an automated swing shutter window opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
 
 REQUIREMENTS FOR FIRST VERSION:
+- opener for 2 doors
 - max/min dimensions of shutter windows ????
 - manage power on n.2 DC Motor 24VDC?;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
@@ -21,6 +22,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - protection IP44
 
 OPTIONAL FOR NEXT/ADVANCED VERSION:
+- simplest version for 1 door
 - close sensor
 - open sensor
 - solar panels similar to it https://ducatihome.it/collections/persy/products/persy-sol
