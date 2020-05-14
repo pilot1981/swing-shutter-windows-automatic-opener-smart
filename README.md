@@ -19,7 +19,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - metal box to install DC motor, electronic mainboard
 - little space to install between external and internal window
 - installatin in top of existing window
-- protection IP44
+- protection IP24 or IP44???
 
 OPTIONAL FOR NEXT/ADVANCED VERSION:
 - simplest version for 1 door
