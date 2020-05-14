@@ -65,5 +65,6 @@ EXAMPLE of italian commercial products:
 - SOMFY Synapsia https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
 - ANTAMATIC (AMER GROUP) https://antamatic.com/automazioni-scuri
+* it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
