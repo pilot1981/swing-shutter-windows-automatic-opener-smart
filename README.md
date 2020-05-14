@@ -26,6 +26,7 @@ OPTIONAL:
 - wall button
 - control using Alexa, Google Home
 - detection obstacle, wind, ice (suing PM, contact, motion detection, ...)
+- adapt to other type of windows (padovana, trevigiana, vicentina, vicentina rovesciata, libro)
 
 
 BOM:
