@@ -53,8 +53,8 @@ TODO LIST:
 
 PHASE OF THIS PROJECT:
 1) documentation (actual)
-2) prototype and test
-3) production/final release
+2) prototype and test (next 3 months)
+3) production/final release (next 6 months)
 
 EXAMPLE of commercial products:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
