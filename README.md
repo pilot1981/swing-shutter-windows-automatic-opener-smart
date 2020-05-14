@@ -27,6 +27,7 @@ OPTIONAL:
 - control using Alexa, Google Home
 - detection obstacle, wind, ice (suing PM, contact, motion detection, ...)
 - adapt to other type of windows (padovana, trevigiana, vicentina, vicentina rovesciata, libro)
+- anti-crushing system
 
 
 BOM:
@@ -44,6 +45,6 @@ BOM:
 EXAMPLE of commercial products:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
-
+- DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
