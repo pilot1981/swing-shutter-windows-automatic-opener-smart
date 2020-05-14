@@ -1,7 +1,7 @@
 # swing-windows-opener
-This repository contain all you need to create from scratch a swing dual external windows opener Apple Homekit opener: from mechanical to electronical parts.
+This repository contain all you need to create from scratch a swing dual external windows/shutter opener Apple Homekit opener: from mechanical to electronical parts.
 
-This project would help everyone to create itself an automated swing window opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
+This project would help everyone to create itself an automated swing window/shutter opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
 
 REQUIREMENTS:
 - manage power on n.2 DC Motor 24VDC?;
