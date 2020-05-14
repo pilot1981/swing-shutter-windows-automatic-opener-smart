@@ -54,5 +54,7 @@ EXAMPLE of commercial products:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
+- SOMFY Synapsia https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
+- SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
