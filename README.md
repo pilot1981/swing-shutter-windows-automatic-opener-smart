@@ -41,6 +41,11 @@ BOM:
 - ESP8266 con modulo WIFI
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
 
+TODO LIST:
+1) buy list of materials
+2) assembler all-in-one solution
+3) we have 2 ways to automate a self made swing window opener: 1) use a commercial garage swing gate opener + ESP82xx with 1 relay dry contact without PM , with HAA firmware; 2) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, ... with HAA firmware
+
 
 EXAMPLE of commercial products:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
