@@ -3,7 +3,7 @@ This repository contain all you need to create from scratch a swing windows open
 
 This project would help everyone to create itself an automated swing window opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
 
-Requirements:
+REQUIREMENTS:
 - manage power on n.2 DC Motor 24VDC?;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
@@ -15,6 +15,7 @@ Requirements:
 - manual motor release
 - metal box to install DC motor, electronic mainboard
 - littel space to install between external and internal window
+
 
 OPTIONAL:
 - solar panels
