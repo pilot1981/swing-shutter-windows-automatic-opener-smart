@@ -62,5 +62,6 @@ EXAMPLE of commercial products:
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
 - SOMFY Synapsia https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
+- ANTAMATIC (AMER GROUP) https://antamatic.com/automazioni-scuri
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
