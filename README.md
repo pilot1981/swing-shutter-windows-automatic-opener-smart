@@ -1,9 +1,9 @@
 # swing-windows-opener
-This repository contain all you need to create from scratch a swing dual external windows/shutter opener Apple Homekit opener: from mechanical to electronical parts.
+This repository contain all you need to create from scratch a swing dual external shutter windows opener Apple Homekit opener: from mechanical to electronical parts.
 
-This project would help everyone to create itself an automated swing window/shutter opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
+This project would help everyone to create itself an automated swing shutter window opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit)
 
-REQUIREMENTS:
+REQUIREMENTS FOR FIRST VERSION:
 - manage power on n.2 DC Motor 24VDC?;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
@@ -12,26 +12,28 @@ REQUIREMENTS:
 - 230 VAC
 - control using Apple HomeKit via WiFi using ESP82xx
 - not use 433 MHz
-- manual motor release
+- manual motor release from internal of house for emergency
 - irreversible engine
 - metal box to install DC motor, electronic mainboard
 - little space to install between external and internal window
 - installatin in top of existing window
 - protection IP44
 
-OPTIONAL:
+OPTIONAL FOR NEXT/ADVANCED VERSION:
 - close sensor
 - open sensor
-- solar panels +  battery
+- solar panels similar to it https://ducatihome.it/collections/persy/products/persy-sol
+- battery similar to it https://ducatihome.it/collections/persy/products/bat-0212
 - wall button
 - control using Alexa, Google Home
 - detection obstacle, wind, ice (suing PM, contact, motion detection, ...)
 - adapt to other type of windows (padovana, trevigiana, vicentina, vicentina rovesciata, libro)
 - anti-crushing system
+- lock mechanism similar to it https://ducatihome.it/collections/persy/products/persy-lock https://ducatihome.it/collections/persy/products/persy-block
 
 
 BOM:
-- n.2 metal crank mechanism to connect DC motor to windows
+- n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2
 - n.2 DC motor 24VDC
 - n.1 power supply 220V->24VDC
 - n.2 metal engine support?
