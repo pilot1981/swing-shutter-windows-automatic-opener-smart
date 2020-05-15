@@ -11,7 +11,11 @@ REQUIREMENTS FOR FIRST VERSION:
 - manage power on n.2 DC Motor 24VDC?;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
-- 2 motor to open swing windows at 180 degree
+- 2 motor to open swing windows at 180 degree;
+- opening/closing mode:
+  - full closing;
+  - full opening 180 degree;
+  - partial opening (10-20-30-40-50-60-70-80-90 %);
 - End of stroke of the motors should be controlled measuring the current or power
 - 230 VAC
 - control using Apple HomeKit via WiFi using ESP82xx
