@@ -18,7 +18,7 @@ REQUIREMENTS FOR FIRST VERSION:
   - partial opening (10-20-30-40-50-60-70-80-90 %);
 - End of stroke of the motors should be controlled measuring the current or power
 - 230 VAC
-- control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz (it require a WIFI infrastructure)
+- control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
 - manual motor release from internal of house for emergency
 - irreversible engine
@@ -28,8 +28,8 @@ REQUIREMENTS FOR FIRST VERSION:
 - protection IP24 or IP44???
 
 OPTIONAL FOR NEXT/ADVANCED VERSION:
+- close sensor (I can mov this to inital version because it's very simple attach reed sensor: 1 side without wire to the window and the other one nead ESP; use this sensor is raccomanded for secuirty matters)
 - simplest version for 1 door
-- close sensor
 - open sensor
 - solar panels similar to it https://ducatihome.it/collections/persy/products/persy-sol
 - battery similar to it https://ducatihome.it/collections/persy/products/bat-0212
@@ -42,14 +42,14 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 
 
 BOM:
-- n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2
+- n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2 I think it's easier buy it!
 - n.2 DC motor 24VDC
 - n.1 power supply 220V->24VDC
 - n.2 metal engine support?
 - n.4 end of stroke (micro-switch?)
 - n.1 metal box
-- electronic for control delay and PM
-- ESP8266 con modulo WIFI
+- ESP8266 with WIFI (it require a WIFI infrastructure): 1 o 2 relay with 1 NC sensor using HAA firmware (no PM feature available now)
+- electronic for control delay and PM?????
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
 
 TODO LIST:
