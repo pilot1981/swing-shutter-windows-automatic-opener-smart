@@ -62,14 +62,14 @@ PHASE OF THIS PROJECT:
 2) prototype and test (next 3 months)
 3) production/final release (next 6 months)
 
-EXAMPLE of italian commercial products:
+EXAMPLE of italian commercial products for dual swing shutter windows:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
 - SOMFY SYNAPSIA https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
-- ANTAMATIC (AMER GROUP) https://antamatic.com/automazioni-scuri for about 500€
-- CHIAROSCURO http://www.chiaroscuro.eu/Product/Battente.html
+- ANTAMATIC (AMER GROUP) CLASSIC KIT https://antamatic.com/automazioni-scuri for about 500€
+- CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
