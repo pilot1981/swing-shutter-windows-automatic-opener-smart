@@ -18,8 +18,8 @@ REQUIREMENTS FOR FIRST VERSION:
   - partial opening (10-20-30-40-50-60-70-80-90 %);
 - End of stroke of the motors should be controlled measuring the current or power
 - 230 VAC
-- control using Apple HomeKit via WiFi using ESP82xx
-- not use 433 MHz
+- control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz (it require a WIFI infrastructure)
+- not use 433 MHz (less secure)
 - manual motor release from internal of house for emergency
 - irreversible engine
 - metal box to install DC motor, electronic mainboard
