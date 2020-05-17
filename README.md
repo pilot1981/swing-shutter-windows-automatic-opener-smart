@@ -40,7 +40,7 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 - adapt to other type of windows (padovana, trevigiana, vicentina, vicentina rovesciata, libro)
 - anti-crushing system
 - lock mechanism similar to it https://ducatihome.it/collections/persy/products/persy-lock https://ducatihome.it/collections/persy/products/persy-block
-
+- calibration procedure
 
 BOM:
 - n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2 I think it's easier buy it!
