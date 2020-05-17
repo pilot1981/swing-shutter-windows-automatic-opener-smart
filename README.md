@@ -7,6 +7,8 @@ This project would help everyone to create itself an automated swing shutter win
 
 
 REQUIREMENTS FOR FIRST VERSION:
+- window size minimum width 80 cm
+- available depth minimum 11 cm
 - opener for 2 doors max 40KG of weights for each door
 - max/min dimensions of shutter windows ????
 - manage power on n.2 DC Motor 24VDC?;
