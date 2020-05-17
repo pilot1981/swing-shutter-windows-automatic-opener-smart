@@ -11,7 +11,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - manage power on n.2 DC Motor 24VDC?;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
-- 2 motor to open swing windows at 180 degree;
+- 2 motor with worm screw to open swing windows at 180 degree;
 - opening/closing mode:
   - full closing;
   - full opening 180 degree;
