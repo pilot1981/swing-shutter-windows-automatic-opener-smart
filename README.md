@@ -7,6 +7,7 @@ This project would help everyone to create itself an automated swing shutter win
 
 
 REQUIREMENTS FOR FIRST VERSION:
+- from internal of home: open first right windows and then left windows (reverse action for closing)
 - window size minimum width 80 cm
 - available depth minimum 11 cm
 - opener for 2 doors max 40KG of weights for each door
@@ -20,6 +21,8 @@ REQUIREMENTS FOR FIRST VERSION:
   - full opening 180 degree;
   - partial opening (10-20-30-40-50-60-70-80-90 %);
 - End of stroke of the motors should be controlled measuring the current or power
+- manage power to send to motors: 0,6 0,9 1,2 2 Ampere
+- delay to stop motor after too high current consumption 100 or 300 mS
 - 230 VAC
 - control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
