@@ -36,7 +36,7 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 - battery similar to it https://ducatihome.it/collections/persy/products/bat-0212
 - wall button
 - control using Alexa, Google Home
-- detection obstacle, wind, ice (suing PM, contact, motion detection, ...)
+- detection obstacle, wind, ice (using PM, contact, motion detection, resistive safety rib of 8,2KOhm or 16KOhm...)
 - adapt to other type of windows (padovana, trevigiana, vicentina, vicentina rovesciata, libro)
 - anti-crushing system
 - lock mechanism similar to it https://ducatihome.it/collections/persy/products/persy-lock https://ducatihome.it/collections/persy/products/persy-block
