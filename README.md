@@ -66,7 +66,7 @@ EXAMPLE of italian commercial products:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
-- SOMFY Synapsia https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
+- SOMFY SYNAPSIA https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
 - ANTAMATIC (AMER GROUP) https://antamatic.com/automazioni-scuri for about 500€
 - CHIAROSCURO http://www.chiaroscuro.eu/Product/Battente.html
