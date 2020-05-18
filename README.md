@@ -61,7 +61,10 @@ BOM:
 TODO LIST:
 1) buy list of materials
 2) assembler all-in-one solution
-3) we have 2 ways to automate a self made swing window opener: 1) use a commercial garage swing gate opener + ESP82xx with 1 relay dry contact without PM , with HAA firmware; 2) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, ... with HAA firmware
+3) we have 3 ways to automate a self made swing window opener:
+  A) use a commercial garage swing gate opener + ESP82xx with 1 relay dry contact without PM , with HAA firmware; 
+  B) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, with TASMOTA firmware and then integrate via HOME ASSISTANT to HOMEKIT
+  C) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, ... with HAA firmware, when HAA will support PM??!?!?!
 
 PHASE OF THIS PROJECT:
 1) documentation (actual)
