@@ -74,6 +74,14 @@ PHASE OF THIS PROJECT:
 2) prototype and test (next 3 months)
 3) production/final release (next 6 months)
 
+
+REFERENCES:
+
+homekit firmware: https://github.com/RavenSystem/esp-homekit-devices
+TASMOTA firmware: https://github.com/arendst/Tasmota
+HOME ASSISTANT: https://github.com/home-assistant/core
+
+
 EXAMPLE of italian commercial products for dual swing shutter windows:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
