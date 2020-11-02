@@ -85,10 +85,10 @@ HOME ASSISTANT: https://github.com/home-assistant/core
 EXAMPLE of italian commercial products for dual swing shutter windows:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
-- DUCATI HOME PERSY https://it.ducatihome.it/pages/persy
+- DUCATI HOME PERSY https://it.ducatihome.it/pages/persy from about 480€
 - SOMFY SYNAPSIA https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
-- ANTAMATIC (AMER GROUP) CLASSIC KIT https://antamatic.com/automazioni-scuri for about 500€
+- ANTAMATIC (AMER GROUP) CLASSIC KIT https://antamatic.com/automazioni-scuri from about 500€
 - CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
 - APRIMATIC https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
 * it seems there aren't other similar products in the rest of the world (at lowest price)
