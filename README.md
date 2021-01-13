@@ -12,7 +12,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - available depth minimum 11 cm
 - opener for 2 doors max 40KG of weights for each door
 - max/min dimensions of shutter windows ????
-- manage power on n.2 DC Motor 24VDC?;
+- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec.
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
 - 2 motor with worm screw to open swing windows at 180 degree;
@@ -22,8 +22,8 @@ REQUIREMENTS FOR FIRST VERSION:
   - partial opening (10-20-30-40-50-60-70-80-90 %);
 - End of stroke of the motors should be controlled measuring the current or power
 - manage power to send to motors: 0,6 0,9 1,2 2 Ampere
-- delay to stop motor after too high current consumption 100 or 300 mS
-- 230 VAC
+- delay to stop motor after too high current consumption 100 or 300 ms
+- principal power supply 230 VAC 50-60Hz
 - control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
 - manual motor release from internal of house for emergency
