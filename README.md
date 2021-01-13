@@ -61,7 +61,7 @@ This project would help everyone to create itself an automated swing shutter win
 - rigid flange joint; example: https://it.aliexpress.com/item/32967906911.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_ACLkVP&aff_trace_key=863311a21d194eadb2d6385eb3706ea6-1610551104055-06114-_ACLkVP&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - ESP8266 with WIFI (it require a WIFI infrastructure): 1 o 2 relay with 1 NC sensor using HAA firmware (no PM feature available now)
 - n.1 power supply 220V->24VDC (or use electronic board to pwoer also DC Motors????)
-- electronic for control delay and PM?????
+- electronic for control delay and PM (maximum dimension 77 mm x 50 mm x ???)????? example: https://it.aliexpress.com/item/32833407097.html
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
 
 ## TODO LIST:
