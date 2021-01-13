@@ -1,12 +1,12 @@
 # swing-windows-opener
 This repository contain all you need to create from scratch a swing dual external shutter windows opener Apple Homekit opener: from mechanical to electronical parts.
 
-SCOPE:
+## SCOPE:
 
 This project would help everyone to create itself an automated swing shutter window opener using modern vocie assistant at lowest price (in Italy commercial product have a price of 500€ for each window, and there isn't a commercial product able to communicate with Alexa, Google Home and Apple HomeKit); the objective is to obtain a working product more cheaper than commercial products.
 
 
-REQUIREMENTS FOR FIRST VERSION:
+## REQUIREMENTS FOR FIRST VERSION:
 - operator on sight (no need to include it in the wall);
 - installatin in top of existing window
 - from internal of home: open first right windows and then left windows (reverse action for closing)
@@ -37,7 +37,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - protection IP24 or IP44???
 - low costs
 
-OPTIONAL FOR NEXT/ADVANCED VERSION:
+## OPTIONAL FOR NEXT/ADVANCED VERSION:
 - close sensor (I can mov this to inital version because it's very simple attach reed sensor: 1 side without wire to the window and the other one nead ESP; use this sensor is raccomanded for secuirty matters)
 - simplest version for 1 door
 - open sensor
@@ -52,7 +52,7 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 - calibration procedure
 - include DC motors and electronics in the wall
 
-BOM:
+## BOM:
 - n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2 I think it's easier buy it!
 - n.2 DC motor 24VDC example: https://it.aliexpress.com/item/32888516359.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_AqnxON&aff_trace_key=810f27c442794444b2219e4e737806c2-1610551102388-04855-_AqnxON&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - n.1 power supply 220V->24VDC
@@ -64,7 +64,7 @@ BOM:
 - electronic for control delay and PM?????
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
 
-TODO LIST:
+## TODO LIST:
 1) buy list of materials
 2) assembler all-in-one solution
 3) we have 3 ways to automate a self made swing window opener:
@@ -72,20 +72,19 @@ TODO LIST:
    B) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, with TASMOTA firmware and then integrate via HOME ASSISTANT to HOMEKIT
    C) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, ... with HAA firmware, when HAA will support PM??!?!?!
 
-PHASE OF THIS PROJECT:
+## PHASE OF THIS PROJECT:
 1) documentation (actual)
 2) prototype and test (next 3 months)
 3) production/final release (next 6 months)
 
 
-REFERENCES:
-
+## REFERENCES:
 homekit firmware: https://github.com/RavenSystem/esp-homekit-devices
 TASMOTA firmware: https://github.com/arendst/Tasmota
 HOME ASSISTANT: https://github.com/home-assistant/core
 
 
-EXAMPLE of italian commercial products for dual swing shutter windows:
+## EXAMPLE of italian commercial products for dual swing shutter windows:
 - CAME VOILA' https://www.came.com/it/installatori/soluzioni/automazioni-tende-tapparelle-e-scuri/blinds/voila
 - FAAC N1D KIT or Night ONE Day https://faac.it/prodotti/soluzioni-in-kit-1/catalogo/faac-night-one-day-kit-shutters/
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy from about 480€
