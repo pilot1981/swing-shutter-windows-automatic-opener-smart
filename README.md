@@ -8,31 +8,34 @@ This project would help everyone to create itself an automated swing shutter win
 
 REQUIREMENTS FOR FIRST VERSION:
 - operator on sight (no need to include it in the wall);
+- installatin in top of existing window
 - from internal of home: open first right windows and then left windows (reverse action for closing)
 - window size minimum width 80 cm
 - available depth minimum 11 cm
-- opener for 2 doors max 40KG of weights for each door
-- max/min dimensions of shutter windows ????
-- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof; 6 RPM?
-- delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
-- opening/closing slowdown;
-- 2 motor with worm screw to open swing windows at 180 degree;
-- opening/closing mode:
-  - full closing;
-  - full opening 180 degree;
-  - partial opening (10-20-30-40-50-60-70-80-90 %);
-- End of stroke of the motors should be controlled measuring the current or power
-- manage power to send to motors: 0,6 0,9 1,2 2 Ampere
-- delay to stop motor after too high current consumption 100 or 300 ms
+- motor section:
+  - opener for 2 doors max 40KG of weights for each door
+  - max/min dimensions of shutter windows ????
+  - manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof; 6 RPM?
+  - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
+  - opening/closing slowdown;
+  - 2 motor with worm screw to open swing windows at 180 degree;
+  - irreversible engine
+  - opening/closing mode:
+    - full closing;
+    - full opening 180 degree;
+    - partial opening (10-20-30-40-50-60-70-80-90 %);
+- electronic section:
+  - End of stroke of the motors should be controlled measuring the current or power
+  - manage power to send to motors: 0,6 0,9 1,2 2 Ampere
+  - delay to stop motor after too high current consumption 100 or 300 ms
 - principal power supply 230 VAC 50-60Hz
 - control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
 - manual motor release from internal of house for emergency
-- irreversible engine
 - metal box to install DC motor, electronic mainboard
 - little space to install between external and internal window
-- installatin in top of existing window
 - protection IP24 or IP44???
+- low costs
 
 OPTIONAL FOR NEXT/ADVANCED VERSION:
 - close sensor (I can mov this to inital version because it's very simple attach reed sensor: 1 side without wire to the window and the other one nead ESP; use this sensor is raccomanded for secuirty matters)
@@ -65,11 +68,8 @@ TODO LIST:
 1) buy list of materials
 2) assembler all-in-one solution
 3) we have 3 ways to automate a self made swing window opener:
-
    A) use a commercial garage swing gate opener + ESP82xx with 1 relay dry contact without PM , with HAA firmware; 
-
    B) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, with TASMOTA firmware and then integrate via HOME ASSISTANT to HOMEKIT
-
    C) use an unique PCB with ESP82xx, 4 relay 24VDC, PM features, ... with HAA firmware, when HAA will support PM??!?!?!
 
 PHASE OF THIS PROJECT:
@@ -99,3 +99,8 @@ EXAMPLE of italian commercial products for dual swing shutter windows:
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
+
+THANKS to @marcok625
+https://github.com/marcok625/Persiane_Smart
+https://www.youtube.com/watch?v=GMPM3Aij41A
+
