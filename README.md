@@ -7,6 +7,7 @@ This project would help everyone to create itself an automated swing shutter win
 
 
 REQUIREMENTS FOR FIRST VERSION:
+- operator on sight (no need to include it in the wall);
 - from internal of home: open first right windows and then left windows (reverse action for closing)
 - window size minimum width 80 cm
 - available depth minimum 11 cm
@@ -46,6 +47,7 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 - anti-crushing system
 - lock mechanism similar to it https://ducatihome.it/collections/persy/products/persy-lock https://ducatihome.it/collections/persy/products/persy-block
 - calibration procedure
+- include DC motors and electronics in the wall
 
 BOM:
 - n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2 I think it's easier buy it!
