@@ -63,6 +63,8 @@ This project would help everyone to create itself an automated swing shutter win
 - n.1 power supply 220V->24VDC (or use electronic board to pwoer also DC Motors????)
 - electronic for control delay and PM (maximum dimension 77 mm x 50 mm x ???)????? example: https://it.aliexpress.com/item/32833407097.html
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
+- wiring between each DC motor and mainboard (n.6 x 0.5-1.5 mm);
+- wiring between mainboard and power supply 220 VAC (n.2 x 1-1.5 mm);
 
 ## TODO LIST:
 1) buy list of materials
