@@ -54,7 +54,7 @@ BOM:
 - n.2 DC motor 24VDC example: https://it.aliexpress.com/item/32888516359.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_AqnxON&aff_trace_key=810f27c442794444b2219e4e737806c2-1610551102388-04855-_AqnxON&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - n.1 power supply 220V->24VDC
 - n.2 metal engine support plate example: https://it.aliexpress.com/item/32873411717.html?spm=a2g0o.detail.1000013.1.707e1f47Agh9zM&pvid=e8e14976-86d7-431f-9209-a1cb5174aa7f&aff_platform=portals-tool&sk=_9wATLX&aff_trace_key=f90564cf31fc4e9eb008cc5a6facd4a3-1610551108928-07616-_9wATLX&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm-url=1007.13339.146401.0&scm_id=1007.13339.146401.0&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
-- n.4 end of stroke (micro-switch?)
+- n.4 end of stroke (micro-switch?) example: https://it.aliexpress.com/item/32968198983.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_A0nO05&aff_trace_key=8f8cebd09f184fb19475cbc3ed159733-1610551110576-03638-_A0nO05&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - n.1 metal box 77 mm x 50 mm x 800 mm (for enclousure case)
 - rigid flange jointexample: https://it.aliexpress.com/item/32967906911.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_ACLkVP&aff_trace_key=863311a21d194eadb2d6385eb3706ea6-1610551104055-06114-_ACLkVP&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - ESP8266 with WIFI (it require a WIFI infrastructure): 1 o 2 relay with 1 NC sensor using HAA firmware (no PM feature available now)
