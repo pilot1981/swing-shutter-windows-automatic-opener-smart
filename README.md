@@ -13,7 +13,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - available depth minimum 11 cm
 - opener for 2 doors max 40KG of weights for each door
 - max/min dimensions of shutter windows ????
-- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof;
+- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof; 6 RPM?
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
 - 2 motor with worm screw to open swing windows at 180 degree;
@@ -51,7 +51,7 @@ OPTIONAL FOR NEXT/ADVANCED VERSION:
 
 BOM:
 - n.2 metal crank mechanism to connect DC motor to windows similar to it https://ducatihome.it/collections/persy/products/arko-2 I think it's easier buy it!
-- n.2 DC motor 24VDC
+- n.2 DC motor 24VDC example. https://it.aliexpress.com/item/32888516359.html?spm=a2g0s.9042311.0.0.4e664c4dSgpuqS&aff_platform=portals-tool&sk=_AqnxON&aff_trace_key=810f27c442794444b2219e4e737806c2-1610551102388-04855-_AqnxON&terminal_id=b7ba9f6d8cbb47889715383f86120e5e&tmLog=new_Detail
 - n.1 power supply 220V->24VDC
 - n.2 metal engine support?
 - n.4 end of stroke (micro-switch?)
