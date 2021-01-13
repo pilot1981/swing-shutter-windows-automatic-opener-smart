@@ -13,7 +13,7 @@ REQUIREMENTS FOR FIRST VERSION:
 - available depth minimum 11 cm
 - opener for 2 doors max 40KG of weights for each door
 - max/min dimensions of shutter windows ????
-- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec.
+- manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof;
 - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
 - opening/closing slowdown;
 - 2 motor with worm screw to open swing windows at 180 degree;
@@ -55,7 +55,7 @@ BOM:
 - n.1 power supply 220V->24VDC
 - n.2 metal engine support?
 - n.4 end of stroke (micro-switch?)
-- n.1 metal box
+- n.1 metal box 77 mm x 50 mm x 800 mm (for enclousure case)
 - ESP8266 with WIFI (it require a WIFI infrastructure): 1 o 2 relay with 1 NC sensor using HAA firmware (no PM feature available now)
 - electronic for control delay and PM?????
 - DUAL CONTROL DRIVER L298N (Max 2A) oppure POLOLU (Max 5A) control driver H-BRIDGE????
@@ -94,6 +94,7 @@ EXAMPLE of italian commercial products for dual swing shutter windows:
 - CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
 - APRIMATIC https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
 - EHRET VOLETRONIC 230 V https://www.ehret.com/it-it/prodotti/persiane-battenti/motorizzazione
+- ANCELLOTTI ELETTROMECCANICA mod. S/A http://www.ancellotti.it/home.htm
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
