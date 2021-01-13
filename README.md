@@ -98,6 +98,7 @@ EXAMPLE of italian commercial products for dual swing shutter windows:
 - ANCELLOTTI ELETTROMECCANICA mod. S/A http://www.ancellotti.it/home.htm
 - OPEN SMALL ANTE BATTENTI http://www.openautomazioni.it/index.php/it/prodotti/ante-a-battenti/soluzione-a-vista
 - WIMOVE https://www.wimove-store.fr/32-c-wibat-linteau-commande-filaire 360 - 550€
+- FGMICRODESIGN http://www.fgmicrodesign.com/index.php?page=products&language=1&ec_product=kitclickr&ec_category=1
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
