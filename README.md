@@ -91,6 +91,7 @@ EXAMPLE of italian commercial products for dual swing shutter windows:
 - ANTAMATIC (AMER GROUP) CLASSIC KIT https://antamatic.com/automazioni-scuri from about 500€
 - CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
 - APRIMATIC https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
+- EHRET VOLETRONIC 230 V https://www.ehret.com/it-it/prodotti/persiane-battenti/motorizzazione
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
