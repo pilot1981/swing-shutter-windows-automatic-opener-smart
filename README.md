@@ -36,6 +36,8 @@ This project would help everyone to create itself an automated swing shutter win
 - little space to install between external and internal window
 - protection IP24 or IP44???
 - low costs
+- emergency opening/closing in case of power outage
+- respect EU laws
 
 ## OPTIONAL FOR NEXT/ADVANCED VERSION:
 - close sensor (I can mov this to inital version because it's very simple attach reed sensor: 1 side without wire to the window and the other one nead ESP; use this sensor is raccomanded for secuirty matters)
