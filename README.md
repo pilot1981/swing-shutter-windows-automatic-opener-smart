@@ -96,7 +96,7 @@ HOME ASSISTANT: https://github.com/home-assistant/core
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
 - ANTAMATIC (AMER GROUP) CLASSIC KIT https://antamatic.com/automazioni-scuri from about 500€
 - CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
-- APRIMATIC https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
+- APRIMATIC BUONGIORNO https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
 - EHRET VOLETRONIC 230 V https://www.ehret.com/it-it/prodotti/persiane-battenti/motorizzazione
 - ANCELLOTTI ELETTROMECCANICA mod. S/A http://www.ancellotti.it/home.htm from about 850€
 - OPEN SMALL ANTE BATTENTI http://www.openautomazioni.it/index.php/it/prodotti/ante-a-battenti/soluzione-a-vista
