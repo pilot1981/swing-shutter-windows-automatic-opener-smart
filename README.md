@@ -28,7 +28,7 @@ This project would help everyone to create itself an automated swing shutter win
   - End of stroke of the motors should be controlled measuring the current or power
   - manage power to send to motors: 0,6 0,9 1,2 2 Ampere
   - delay to stop motor after too high current consumption 100 or 300 ms
-  - space useful for electronic board (PCB):  77 mm x 50 mm x 50 mm ???
+  - space useful for electronic board (PCB):  6,5 x 11 cm ???
 - principal power supply 230 VAC 50-60Hz
 - control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
