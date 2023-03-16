@@ -8,12 +8,12 @@ This project would help everyone to create itself an automated swing shutter win
 
 ## REQUIREMENTS FOR FIRST VERSION:
 - operator on sight (no need to include it in the wall);
-- installatin in top of existing window
+- installation in top of existing window
 - from internal of home: open first right windows and then left windows (reverse action for closing)
-- window size minimum width 80 cm
-- available depth minimum 11 cm
+- window size minimum width 80 cm ???
+- available depth minimum 11 cm ???
 - motor section:
-  - opener for 2 doors max 40KG of weights for each door
+  - opener for 2 doors max 40KG??? of weights for each door
   - max/min dimensions of shutter windows ????
   - manage power on n.2 DC Motor 24VDC?; the absorbed power is equal to 24 VA, the no-load absorption is 0.2 A, the load one is 1 A, the output torque is 40 Nm, the reduction is equal to 1/4380, the rotation speed corresponds to 1.5 revolutions per minute, the opening time is 18 sec; they are soundproofed, exactly 33 dB with 230 Volt synchronized movement, the mechanical clutch is windproof; 6 RPM?
   - delay in opening and closing: when opening, first open right window and then left window; when closing first close left window and then right window;
@@ -28,6 +28,7 @@ This project would help everyone to create itself an automated swing shutter win
   - End of stroke of the motors should be controlled measuring the current or power
   - manage power to send to motors: 0,6 0,9 1,2 2 Ampere
   - delay to stop motor after too high current consumption 100 or 300 ms
+  - space useful for electronic board (PCB):  77 mm x 50 mm x 50 mm ???
 - principal power supply 230 VAC 50-60Hz
 - control using Apple HomeKit via WiFi using ESP82xx at 2.4 GHz
 - not use 433 MHz (less secure)
