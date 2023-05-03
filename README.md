@@ -103,7 +103,7 @@ HOME ASSISTANT: https://github.com/home-assistant/core
 - OPEN SMALL ANTE BATTENTI http://www.openautomazioni.it/index.php/it/prodotti/ante-a-battenti/soluzione-a-vista
 - WIMOVE https://www.wimove-store.fr/32-c-wibat-linteau-commande-filaire from about 360 - 550€
 - FGMICRODESIGN http://www.fgmicrodesign.com/index.php?page=products&language=1&ec_product=kitclickr&ec_category=1
-- ANCELLOTTI ELETTROMECCANICA http://www.ancellotti.it/
+- ANCELLOTTI ELETTROMECCANICA http://www.ancellotti.it/ from about 900€
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
