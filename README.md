@@ -95,7 +95,7 @@ HOME ASSISTANT: https://github.com/home-assistant/core
 - DUCATI HOME PERSY https://it.ducatihome.it/pages/persy from about 480€
 - SOMFY SYNAPSIA https://shop.somfy.it/kit-motore-per-persiane-synapsia.html
 - SOMFY YSLO FLEX RT https://www.somfy.it/soluzioni/1240035/yslo-flex-rts
-- ANTAMATIC CLASSIC KIT (AMER GROUP) https://antamatic.com/automazioni-scuri from about 500€
+- ANTAMATIC CLASSIC, SLIM, SERIE3, ... KIT (AMER GROUP) https://antamatic.com/automazioni-scuri from about 500€
 - CHIAROSCURO ST40 http://www.chiaroscuro.eu/Product/Battente.html
 - APRIMATIC BUONGIORNO https://www.aprimatic.it/?dima-portfolio=automazione-serramenti-buongiorno
 - EHRET VOLETRONIC 230 V https://www.ehret.com/it-it/prodotti/persiane-battenti/motorizzazione
@@ -106,6 +106,9 @@ HOME ASSISTANT: https://github.com/home-assistant/core
 - THOMSON (ADVISEN / THOMSONBOX) 350€
 * it seems there aren't other similar products in the rest of the world (at lowest price)
 
+## OUT OF SCOPE:
+
+This project don't be useful to other type of windows dirrerent from swing shutter window (padovana/trevigiana, vicentina, vicentina rovescia, vicentina 3 ante, ante legate, scorrrevole, ...)
 AAA looking for CAD designer 2D/3D, mechanical expert, eletronical expert
 
 THANKS to @marcok625
